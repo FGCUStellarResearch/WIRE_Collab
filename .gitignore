@@ -1,0 +1,8 @@
+# test outputs
+toutput/
+
+# downloaded data files
+mastDownload/
+
+# environment specific settings
+.vscode/
